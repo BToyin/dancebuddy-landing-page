@@ -19,6 +19,7 @@ body {
 /* Header */
 header {
     color: #E53935;
+    background-color: white;
     padding: 1rem 0;
     position: sticky;
     top: 0;
@@ -231,16 +232,16 @@ nav {
     margin-top: 3rem;
 }
 
-.screenshot-placeholder {
-    background: linear-gradient(135deg, #EF5350 0%, #E53935 50%, #B71C1C 100%);
+.screenshot-image {
+    width: 100%;
+    height: auto;
     border-radius: 20px;
-    aspect-ratio: 9/16;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    font-size: 1.2rem;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s;
+}
+
+.screenshot-image:hover {
+    transform: translateY(-5px);
 }
 
 /* How It Works */
