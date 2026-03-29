@@ -20,7 +20,7 @@ function Footer() {
                     <div className="footer-section">
                         <h4>Contact</h4>
                         <ul className="footer-links">
-                            <li><a href="mailto:support@dancebuddy.com">Contact Us</a></li>
+                            <li><a href="mailto:support@dancebuddyapp.com">Contact Us</a></li>
                         </ul>
                     </div>
                     <div className="footer-section">
