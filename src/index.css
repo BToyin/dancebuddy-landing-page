@@ -158,7 +158,7 @@ nav {
 /* Features Section */
 .features {
     padding: 5rem 0;
-    background: #f8f9fa;
+    background: white;
 }
 
 .section-title {
@@ -247,7 +247,7 @@ nav {
 /* How It Works */
 .how-it-works {
     padding: 5rem 0;
-    background: white;
+    background: #f8f9fa;
 }
 
 .steps {

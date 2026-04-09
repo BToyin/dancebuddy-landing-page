@@ -15,9 +15,9 @@ function App() {
             <Header />
             <Hero />
             <Problem />
+            <Screenshots />
             <Features />
             <HowItWorks />
-            <Screenshots />
             {/* <Testimonials /> */}
             <CTASection />
             <Footer />
